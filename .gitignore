@@ -2,3 +2,4 @@ Bencher-Scenarios-FileFlockRetry-*
 .build
 *~
 nytprof*
+.DS_Store
